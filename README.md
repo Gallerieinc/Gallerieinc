@@ -1,4 +1,6 @@
-## Hi there 👋
+## Aos professores: para acessar a página dashboard e executar operações CRUD, utilizem o email: taylorswift13@gmail.com e senha:1234;
+
+### Obs: para acessar o site basta criar uma conta e entrar
 
 <!--
 **Gallerieinc/Gallerieinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
